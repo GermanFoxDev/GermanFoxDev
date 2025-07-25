@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="germanfox.dev"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GermanFoxDev&show_icons=true&theme=radical&count_private=true&border_radius=20"/></a>
-  <a href="germanfox.dev"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanFoxDev&show_icons=true&theme=radical&count_private=true&border_radius=20"/></a>
+  <a href="https://germanfox.dev"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanFoxDev&show_icons=true&theme=radical&count_private=true&border_radius=5"/></a>
+  <a href="https://germanfox.dev"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GermanFoxDev&show_icons=true&theme=radical&count_private=true&border_radius=20"/></a>
