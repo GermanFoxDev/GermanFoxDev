@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://ko-fi.com/mahanmoulaei"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GermanFoxDev&show_icons=true&theme=radical&count_private=true&border_radius=20"/></a>
